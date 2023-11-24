@@ -1,4 +1,5 @@
 ![MasterHead(https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)]
+[![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)]()
 <h1 align="center">Hi 👋, I'm Abdalle Wais</h1>
 <h3 align="center">I'm an aspiring DevOps Engineer from Finland</h3>
 
@@ -6,7 +7,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ====================================================================================================================================
 
 I'm an aspiring DevOps Engineer and Former Chemical & Materials process engineer, now aspiring DevOps enthusiast. Passion for learning drives my code-filled journey also been learning Full Stack. #DevOpsJourney 🚀
-<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
+<img align="right" alt="Coding" width="250" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
 * 🌍  I'm based in Finland
 * ✉️  You can contact me at [abbe\_02@live.com](mailto:abbe_02@live.com)
