@@ -29,7 +29,7 @@ I'm an aspiring DevOps Engineer and Former Chemical & Materials process engineer
 <b>My GitHub Stats</b>
 
 <p align="left">
-<a href="https://github.com/abedDX" align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abedDX&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/abedDX" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abedDX&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 <a href="http://www.github.com/abedDX" align="left"><img src="https://github-readme-stats.vercel.app/api?username=abedDX&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&show_icons=true" alt="abedDX's GitHub stats" /></a>
 </p>
 
