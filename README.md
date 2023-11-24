@@ -2,8 +2,11 @@
 <h1 align="center">Hi 👋, I'm Abdalle Wais</h1>
 <h3 align="center">I'm an aspiring DevOps Engineer from Finland</h3>
 
-(img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif")
+
 ![212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41](https://github.com/AbedDX/AbedDX/assets/123561100/2a2bd85f-c831-4652-8adc-d2638a90ee65)
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
+
 
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Abdalle Wais
