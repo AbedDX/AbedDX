@@ -35,5 +35,3 @@ I'm an aspiring DevOps Engineer and Former Chemical & Materials process engineer
 
 <a href="https://www.github.com/abedDX" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/abedDX?logo=github&style=for-the-badge&color=0891b2&labelColor=0f172a" /></a>
-
-
