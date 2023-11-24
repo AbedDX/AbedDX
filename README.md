@@ -1,7 +1,4 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)]()
-<h1 align="center">Hi 👋, I'm Abdalle Wais</h1>
-<h3 align="center">I'm an aspiring DevOps Engineer from Finland</h3>
-
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Abdalle Wais
 ====================================================================================================================================
 
