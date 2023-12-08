@@ -6,7 +6,7 @@ I'm an aspiring DevOps Engineer and Former Chemical & Materials process engineer
 <img align="right" alt="Coding" width="250" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
 * 🌍  I'm based in Finland
-* ✉️  You can contact me at [abbe\_02@live.com](mailto:abbe_02@live.com)
+* ✉️  You can contact me at [abbe\_92@live.com](mailto:abbe_92@live.com)
 * 🚀  I'm currently working on [Rottentomatoes\_Clone project](http://github.com/AbedDX/RottenTomatoes_clone)
 * 🧠  I'm learning MongoDB · JavaScript · Node.js · React.js · Python · DevOps Tools
 * ⚡  I enjoy 3D printing and tinkering with Raspberry pi boards. Hehe i like the clouds
