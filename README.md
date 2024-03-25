@@ -7,7 +7,7 @@ I'm an aspiring DevOps Engineer and Former Chemical & Materials process engineer
 
 * 🌍  I'm based in Finland
 * ✉️  You can contact me at [abbe\_92@live.com](mailto:abbe_92@live.com)
-* 🧠  I'm learning MongoDB · JavaScript · Node.js · React.js · Python · DevOps Tools · Web development · CI/CD 
+* 🧠  I'm learning MongoDB · JavaScript · Node.js · React.js · Python · DevOps Tools · Web development
 * ⚡  I enjoy 3D printing and tinkering with Raspberry pi boards. Hehe i like the clouds
 
 
