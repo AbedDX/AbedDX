@@ -7,8 +7,7 @@ I'm an aspiring DevOps Engineer and Former Chemical & Materials process engineer
 
 * 🌍  I'm based in Finland
 * ✉️  You can contact me at [abbe\_92@live.com](mailto:abbe_92@live.com)
-* 🚀  I'm currently working on [Rottentomatoes\_Clone project](http://github.com/AbedDX/RottenTomatoes_clone)
-* 🧠  I'm learning MongoDB · JavaScript · Node.js · React.js · Python · DevOps Tools · Web development
+* 🧠  I'm learning MongoDB · JavaScript · Node.js · React.js · Python · DevOps Tools · Web development · CI/CD 
 * ⚡  I enjoy 3D printing and tinkering with Raspberry pi boards. Hehe i like the clouds
 
 
@@ -22,7 +21,7 @@ I'm an aspiring DevOps Engineer and Former Chemical & Materials process engineer
 
 ### Socials
 
-<p align="left"> <a href="https://discord.com/users/daxter9019" target="_blank" rel="noreferrer"> <img src="https://github.com/AbedDX/AbedDX/assets/123561100/c1526d74-c5b6-44ae-8d20-6bc8bca07570" width="30" height="30"> </picture></a>
+<p align="left"> <a href="https://discord.com/users/daxter9019" target="_blank" rel="noreferrer">  <picture> <img src="https://github.com/AbedDX/AbedDX/assets/123561100/c1526d74-c5b6-44ae-8d20-6bc8bca07570" width="32" height="30"/> </picture></a>
 <a href="https://www.linkedin.com/in/abdalle-wais" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
 ### Badges
