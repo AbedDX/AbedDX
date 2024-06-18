@@ -24,7 +24,7 @@ I'm an aspiring DevOps Engineer and Former Chemical & Materials process engineer
 <p align="left"> <a href="https://discord.com/users/daxter9019" target="_blank" rel="noreferrer">  <picture> <img src="https://github.com/AbedDX/AbedDX/assets/123561100/c1526d74-c5b6-44ae-8d20-6bc8bca07570" width="32" height="30"/> </picture></a>
 <a href="https://www.linkedin.com/in/abdalle-wais" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
-### Badges
+### Stats
 
 <b>My GitHub Stats</b>
 
